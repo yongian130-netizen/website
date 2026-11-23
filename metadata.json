@@ -1,0 +1,6 @@
+{
+  "name": "La Grande Boucherie",
+  "description": "Polished French restaurant and brasserie in an expansive Art Nouveau heated atrium at 145 W 53rd St, New York.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
